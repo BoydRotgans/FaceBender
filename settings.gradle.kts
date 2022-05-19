@@ -1,5 +1,5 @@
 enableFeaturePreview("VERSION_CATALOGS")
-rootProject.name = "openrndr-template"
+rootProject.name = "openrndr-face-bender"
 
 val openrndrUseSnapshot = false
 val orxUseSnapshot = false
